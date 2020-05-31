@@ -28,8 +28,8 @@ help out with testing on your distribution.
 
 We use [PackageCloud](https://packagecloud.io/) for distributing
 the installers for Debian and RPM-based distributions. These are not free services,
-so if you can afford to help with these costs please **Sponsor** the project using
-the link in the header.
+so if you can afford to help with these costs please [**Sponsor**](https://github.com/sponsors/shiftkey)
+the project using the link in the header.
 
 ### Debian/Ubuntu distributions
 
